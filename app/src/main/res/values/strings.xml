@@ -2,5 +2,8 @@
     <string name="app_name">planner</string>
     <string name="txt_amount">Amount</string>
     <string name="btn_addincome">ADD INCOME</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_transaction">Transaction Type</string>
+    <string name="txt_note">Notes</string>
 
 </resources>

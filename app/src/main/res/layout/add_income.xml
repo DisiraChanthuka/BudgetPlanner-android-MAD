@@ -14,6 +14,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:background="@drawable/button"
+        android:backgroundTintMode="add"
         android:backgroundTint="@color/red"
         android:text="@string/btn_addincome"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -87,7 +88,7 @@
         android:ems="10"
         android:hint="Title"
 
-        android:inputType="textPassword"
+
         android:textColorHint="#3B608C"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -107,7 +108,7 @@
         android:drawablePadding="16dp"
         android:ems="10"
 
-        android:hint="Transaction Type"
+        android:hint="@string/txt_transaction"
         android:inputType="textPersonName"
         android:textColorHint="#3B608C"
         android:textSize="16sp"
@@ -127,7 +128,7 @@
 
         android:drawablePadding="16dp"
         android:ems="10"
-        android:hint="Notes"
+        android:hint="@string/txt_note"
 
         android:inputType="textPassword"
         android:textColorHint="#3B608C"
