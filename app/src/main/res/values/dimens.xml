@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcomeTop">32dp</dimen>
+    <dimen name="emailBox">0dp</dimen>
+    <dimen name="emailBoxH">50dp</dimen>
+    <dimen name="goFrontArrowMargin">20dp</dimen>
+    <dimen name="socilasMargin">8dp</dimen>
+    <dimen name="introWiseMargintop">24dp</dimen>
+    <dimen name="intoCreditTopMargin">64dp</dimen>
+    <dimen name="premiumBoxHeight">130dp</dimen>
+    <dimen name="regUserLineTop">16dp</dimen>
+    <item name="socialsWeight" type="dimen" format="float">0.5</item>
+</resources>

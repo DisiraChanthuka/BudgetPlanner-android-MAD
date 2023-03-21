@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">planner</string>
+    <string name="searchBar">Search here ....</string>
+    <string name="introBottom">Your finances, your way.</string>
+    <string name="introApp">WiseWallet</string>
+    <string name="upgradeBottom">"Say goodbye to financial stress"\nBuy premium today.</string>
+    <string name="socialsSignFail">oops...! Try Again</string>
+    <string name="greeting">Have a wonderful day</string>
+
+    <string-array name="dropdown_items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+
+
 </resources>

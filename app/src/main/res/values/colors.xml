@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="introGradient">#130041</color>
+    <color name="premBoxesGradient">#6E48CA</color>
+    <color name="socialsBox">#BAA8E6</color>
+    <color name="titlePage">#10062B</color>
+    <color name="transRed">#C50C20</color>
+    <color name="transGreen">#3C8F09</color>
+    <color name="creditCardGradients">#C3B9DD</color>
+    <color name="userNameDark">#080119</color>
+    <color name="userNameLight">#1C0A4A</color>
+    <color name="userHelloLight">#2F2E32</color>
+    <color name="smallButtonText">#4516C5</color>
+
 </resources>
